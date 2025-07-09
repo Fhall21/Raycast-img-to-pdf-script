@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS system files
+.DS_Store
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
